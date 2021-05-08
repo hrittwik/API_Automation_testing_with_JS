@@ -1,0 +1,19 @@
+{
+  "name": "apitesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "yes",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "loader": "^2.1.1",
+    "superagent": "^6.1.0",
+    "supertest": "^6.1.3"
+  }
+}
